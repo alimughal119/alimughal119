@@ -80,7 +80,7 @@ Tech: HTML · CSS · JavaScript
 
 📫 Connect With Me
 
-PlatformLink🌐 Portfolioalimughal119.github.io/My-Portfolio💼 LinkedInali-tawassul-aa8460329📧 Emailalitawassul134@gmail.com🐙 GitHubalimughal119
+PlatformLink🌐 Portfolio:alimughal119.github.io/My-Portfolio💼 LinkedIn: ali-tawassul-aa8460329📧 Email:alitawassul134@gmail.com🐙 GitHub:alimughal119
 
 
 <p align="center">
