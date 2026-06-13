@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Ali Tawassul Mughal 👋</h1>
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Java+%26+React+Developer;Open+to+Internships!" />
+</p>
+<p align="center">
   <strong>Full Stack Developer &nbsp;·&nbsp; AI & Machine Learning Enthusiast &nbsp;·&nbsp; Java & React Developer</strong>
 </p>
 <p align="center">
@@ -38,24 +41,23 @@
 
 📌 Featured Projects
 
-🔹 Portfolio Website
+### 🔹 [Portfolio Website](https://alimughal119.github.io/My-Portfolio/) &nbsp; ![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat)
 
 
-Personal portfolio built with React, showcasing projects, skills, and experience.
-
-
-
-Tech: React · JavaScript · HTML · CSS
-
-
-🔹 InspireMe — Hope Generator
-
-
-A personalized motivation web app that generates inspiring quotes and messages based on your name and date of birth. Features dark mode, privacy-first design (all processing happens on-device), and a clean responsive UI.
+>Personal portfolio built with React, showcasing projects, skills, and experience.
 
 
 
-Tech: HTML · CSS · JavaScript
+**Tech:** React · JavaScript · HTML · CSS
+
+
+### 🔹 [InspireMe — Hope Generator](https://alimughal119.github.io/Inspire-Me/) &nbsp; ![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat)
+
+>A personalized motivation web app that generates inspiring quotes and messages based on your name and date of birth. Features dark mode, privacy-first design (all processing happens on-device), and a clean responsive UI.
+
+
+
+**Tech:** HTML · CSS · JavaScript
 
 
 📊 GitHub Stats
@@ -69,12 +71,24 @@ Tech: HTML · CSS · JavaScript
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alimughal119&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alimughal119&theme=flat&no-frame=true&row=1&column=6" />
+</p>
+
 📈 Goals
 
 
 🎯 Secure an internship in AI or Full Stack development
 🏗️ Build and ship production-level AI applications
 🌍 Contribute meaningfully to open-source projects
+
+
+## 🔭 Currently
+
+- 🌱 Learning — advanced React patterns & machine learning deployment
+- 👯 Looking to collaborate on — open-source web or AI projects  
+- 💬 Ask me about — Java, React, Python, or getting started with ML
+- ⚡ Fun fact — I turn chai breaks into coding sessions
 
 
 
