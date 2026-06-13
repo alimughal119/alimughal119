@@ -36,8 +36,24 @@
 
 ## 🛠️ Tech Stack
 
+**Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,react,nodejs,html,css,tensorflow,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js" />
+</p>
+
+**Web Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css" />
+</p>
+
+**AI & Machine Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,python" />
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
