@@ -78,11 +78,22 @@ Tech: HTML · CSS · JavaScript
 
 
 
-📫 Connect With Me
+## 📫 Connect With Me
 
-PlatformLink🌐 Portfolio:alimughal119.github.io/My-Portfolio💼 LinkedIn: ali-tawassul-aa8460329📧 Email:alitawassul134@gmail.com🐙 GitHub:alimughal119
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alimughal119&color=blue&style=flat" alt="Profile views" />
+<p>
+  <a href="https://alimughal119.github.io/My-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ali-tawassul-aa8460329">
+    <img src="https://img.shields.io/badge/LinkedIn-ali--tawassul-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:alitawassul134@gmail.com">
+    <img src="https://img.shields.io/badge/Email-alitawassul134@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/alimughal119">
+    <img src="https://img.shields.io/badge/GitHub-alimughal119-181717?style=flat&logo=github&logoColor=white" />
+  </a>
 </p>
