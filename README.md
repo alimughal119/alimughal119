@@ -23,7 +23,7 @@
   </a>
 </p>
 
-##🚀 What I Do
+## 🚀 What I Do
 
 
 🌐 Full Stack Web Development — React, Java, REST APIs, Databases
@@ -33,7 +33,7 @@
 
 
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,cpp,python,js,react,nodejs,html,css,tensorflow,git,github,vscode" />
@@ -60,7 +60,7 @@
 **Tech:** HTML · CSS · JavaScript
 
 
-##📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alimughal119&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
@@ -75,7 +75,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=alimughal119&theme=flat&no-frame=true&row=1&column=6" />
 </p>
 
-##📈 Goals
+## 📈 Goals
 
 
 🎯 Secure an internship in AI or Full Stack development
