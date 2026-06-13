@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Java+%26+React+Developer;Open+to+Internships!" />
 </p>
 <p align="center">
-  <strong>Full Stack Developer &nbsp;·&nbsp; AI & Machine Learning Enthusiast &nbsp;·&nbsp; Java & React Developer</strong>
+ <strong>Full Stack Developer &nbsp;·&nbsp; AI & Machine Learning Enthusiast &nbsp;·&nbsp; Java & React Developer</strong>
 </p>
 <p align="center">
   Computer Science student passionate about building scalable web applications, AI-powered systems,<br>
