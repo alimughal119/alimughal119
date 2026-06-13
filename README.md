@@ -72,7 +72,6 @@
   <img src="https://streak-stats.demolab.com/?user=alimughal119&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=alimughal119&theme=darkhub&no-frame=true&margin-w=15" />
 
 ---
 
